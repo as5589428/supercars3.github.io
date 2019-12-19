@@ -1,0 +1,117 @@
+
+<!-- saved from url=(0034)file:///D:/Website/image/aman.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title> Super Cars </title>
+<meta charset="UTF-8">
+ <meta name="description" content="Super cars ">
+ <meta name="keywords" content="HTML,CSS">
+ <meta name="author" content="Aman">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta http-equiv="refresh"content="100">
+<link rel="shortcut icon" href="https://cdn2.vectorstock.com/i/1000x1000/38/16/side-view-of-car-sedan-black-icon-vector-21173816.jpg"/>
+
+</head>
+<body>
+
+  <style>
+body {
+  background-color:  grey;
+}
+
+h1 {
+  color: Black;
+  text-align: center;
+}
+h2
+{
+  color : Green;
+  text-align: center;
+}
+p {
+  font-family: red;
+  font-size: 70px;
+}
+h3{
+  color: black;
+  text align : left;
+}
+h3{
+  color:black;
+  text align : left;
+}
+h3{
+  color:black;
+  text align : left;
+}
+h3{
+  color :black;
+  text align : right;
+}
+</style>
+
+
+
+<h1>Welcome to my Website</h1>
+<h2> Here the List of top 5 most powerfull cars in the world</h2>
+<h1>For the Craze of Cars </h1>
+<h3> 1. Devel Sixteen Prototype</h3>
+<img src ="https://i.ytimg.com/vi/BBny0992PCs/maxresdefault.jpg"alt ="devel sixteen prototype"width="500"height="300"/>
+<h3> You can visit this site for more information </h3>
+<a href="http://develmotors.com/develsixteen.php#intro"> click on this </a>
+<h3> 2. Buggati Chiron </h3>
+<img src="https://s2.paultan.org/image/2019/09/Bugatti-Chiron-new-top-speed-record-1-1200x628.jpg"alt ="Buggati Chiron"width="500"height="300"/>
+
+<h3> you can visit this site for more information </h3>
+<a href="https://www.bugatti.com/chiron">click on this </a>
+<h3> 3. Koenigsegg Regera</h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Regera_%28light_gradient%29.png/1200px-Regera_%28light_gradient%29.png"alt="Konigsegg regera"width="400"height="300"/>
+<h3> you can visit this site for  more information </h3>
+<a href="https://www.koenigsegg.com/"> click on this </a>
+<h3> 4. Nissan GTR </h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nissan_GT-R_-_Mondial_de_l%27Automobile_de_Paris_2016_-_003.jpg/1200px-Nissan_GT-R_-_Mondial_de_l%27Automobile_de_Paris_2016_-_003.jpg"alt="Nissian Gtr"width="500"height="300"/>
+<h3> you can visit this site for  more information </h3>
+<a href="https://www.caranddriver.com/nissan/gt-r"> click on this </a>
+<h3> 5. Buggati Veryon </h3>
+<img src="https://tse1.mm.bing.net/th?id=OIP.nhgceHfejdnL_IQ5LuMgOwHaEK&pid=Api&P=0&w=329&h=186"alt="Buggati Veryon"width="500"height="300"/>
+<h3> you can visit this site for  more information </h3>
+<a href="https://www.autoblog.com/bugatti/veyron/"> click on this </a>
+
+
+
+<table style="width:100%">
+<tr>
+  <th>Company Name</th>
+  <th>Car name</th>
+  <th>Grade</th>
+</tr>
+<tr>
+  <td>develsixteen motors</td>
+  <td>develsixteen Prototype</td>
+  <td>A+</td>
+</tr>
+<tr>
+  <td>Buggati</td>
+  <td>Chiron</td>
+  <td>A+</td>
+</tr>
+<tr>
+  <td>Konigsegg</td>
+  <td>Regera_</td>
+  <td>A</td>
+</tr>
+<tr>
+  <td>Nissan</td>
+  <td>Nissian Gtr_</td>
+  <td>A</td>
+</tr>
+<tr>
+  <td>Buggati</td>
+  <td>Veryon_</td>
+  <td>A</td>
+</tr>
+
+
+</table>
+<h1> Thanks for visiting this Site </h1>
+
+</body></html>
